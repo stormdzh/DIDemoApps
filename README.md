@@ -8,3 +8,6 @@ In total we do 5455 injections:
 - 15 TestManager clases into MainActivity
 
 Performance results for these demo APKs: [http://blog.nimbledroid.com/2016/03/07/performance-of-dependency-injection-libraries.html](http://blog.nimbledroid.com/2016/03/07/performance-of-dependency-injection-libraries.html)
+
+
+备注：dagger1 、dagger2和 roboguice的性能对比！
